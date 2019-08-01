@@ -1,2 +1,3 @@
 The main proble is remembering
  how assign the check list
+stash is checking
